@@ -1,13 +1,27 @@
 # Devenir partages pratique de l'IA
-![photo_devant_edifice.JPG](media/cartel.jpg)
+---
+![]­(https://raw.githubusercontent.com/noahcyoou/H26_V11_inspiraton_Yoou/refs/heads/main/Galerie_UDEM/media/cartel%20_exposition_photo_jb.png)
+
+---
 ## lieu de mise d'exposition 
 Galerie de l’Université de Montréal
+
+---
+![noah devant l'edifice](media/photo_devant_edifice.JPG)
+
+---
 ## Type d'exposition
 Temporaire (intérieur)
+![](/media/vue_ensemble.JPG)
 ## Date de visite
 2026 janvier 30
 ## Titre de L'oeuvre choisi
 Terre commune
+![](media/cartel.jpg)
+![](media/catel_composante.jpg)
+![](media/cartel_bio.jpg)
+![](media/cartel_collaborateur.jpg)
+
 ## Nom de l'artiste
 Marion Schneider
 ## Année de réalisation
