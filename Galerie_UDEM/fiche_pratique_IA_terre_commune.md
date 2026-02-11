@@ -1,4 +1,5 @@
 # Devenir partages pratique de l'IA
+![photo_devant_edifice.JPG](media/cartel.jpg)
 ## lieu de mise d'exposition 
 Galerie de l’Université de Montréal
 ## Type d'exposition
@@ -30,5 +31,5 @@ immmersive/interactive
 - mure
 - structure pour eclairage 
 ## Expérience vécu
-J'ai beaucoups aimer ma visite a la galerie d'UQUAM. J'ai 
+J'ai beaucoups aimer ma visite a la galerie d'UQUAM. J'ai trouver le concept super origianle d'avoir de l'IA melanger avec l'art. Tout les projets était super intéressant et original.
 
