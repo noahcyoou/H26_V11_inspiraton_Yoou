@@ -1,6 +1,8 @@
 # Devenir partages pratique de l'IA
 ---
-![photo cartel exposition: marche seulement par un lien]­(https://github.com/noahcyoou/H26_V11_inspiraton_Yoou/blob/main/Galerie_UDEM/media/cartel%20_exposition_photo_jb.jpg?raw=true)
+­![photo cartel exposition](media/cartel%20_exposition_photo_jb.jpg)
+
+*photo cartel exposition, photo prise par Jonathan Bélsile*
 
 ---
 ## Lieu de mise d'exposition 
@@ -36,7 +38,7 @@ Temporaire (intérieur)
 
 ---
 ## Nom de l'artiste
-Marion Schneider
+### Marion Schneider
 ![Biographie de l'oeuvre selon la vision de Marion Schneider](media/cartel_bio.jpg)
 *Biographie de l'oeuvre selon la vision de Marion Schneider, photo prise par Noah-Charles Yoou*
 
@@ -46,15 +48,16 @@ Marion Schneider
 
 ---
 ## Description de l'oeuvre
-L'oeuvre est consitué d'un ordinateur qui encadré par un case de vitre. Le principe est de mettre un bandeau qui lui vas capter les ondes émit par ton cerveau. 
-Ses ondes vont ensuite être diffuser sur un écran qui lui est brancher a lordinateur encadrer de vitre. Le tout/résultat vas ensuite être projeté par un projecteur sur un mure blanc.
+L'œuvre est constituée d'un ordinateur qui est encadré par une case en vitre. Le principe est de mettre un bandeau qui va capter les ondes émises par ton cerveau. 
+Ces ondes vont ensuite être diffusées sur un écran qui est branché à l'ordinateur encadré de vitre. 
+Le tout/résultat va ensuite être projeté par un projecteur sur un mur blanc.
+
 
 ---
 ## Type d'installation
+### immmersive/interactive
 ![La projection de l'art sur le mure](media/surface_projection.jpg)
 *La projection de l'art sur le mure, photo prise par Noah-Charles Yoou*
-
-immmersive/interactive
 
 ---
 ## mise en l'espace
