@@ -43,21 +43,21 @@ Temporaire (intérieur)
 
 ---
 ## Description de l'oeuvre
-L'oeuvre consite d'un cylindre oval avec un contour extérieur bleu et plusieur couche d'intérieur orange. Le centre des deux cotées possede une vitrine oval. Le centre possède aussi des néons de plusieurs couleur(vert,blanc,bleu,orange). Le tout est supporter par 4 petite pattes de couleur turquoise foncé. On peut remarqué qu'il a une sepation aucentre de l'oeuvre. Derrière la vitrine sur un coté de l'exposition on peut observer une sorte de mascotte sans tête avec des mains et pieds en or. Son corps est enrobé d'une fabrique bleu foncé et de deux chaine dorée. La mascotte semble être supendu au centre de la vitrine. Une fleure faite avec des fillament doré semble aussi être suspendu. De l'autre coté de l'exposition, il a une autre vitrine qui elle aussi a un objet a l'intérieur. Un baton avec deux fleur blanche suspendu aux extrémité. Les fleures sont attacher par des boules dorées. 
+L'oeuvre consiste d'un cylindre ovale avec un contour extérieur bleu et plusieurs couches d'intérieur orange. Le centre des deux côtés possède une vitrine ovale. Le centre possède aussi des néons de plusieurs couleurs (vert, blanc, bleu, orange). Le tout est supporté par 4 petites pattes de couleur turquoise foncé. On peut remarquer qu'il y a une séparation au centre de l'oeuvre. Derrière la vitrine sur un côté de l'exposition on peut observer une sorte de mascotte sans tête avec des mains et pieds en or. Son corps est enrobé d'une fabrique bleu foncé et de deux chaînes dorées. La mascotte semble être suspendue au centre de la vitrine. Une fleur faite avec des filaments dorés semble aussi être suspendue. De l'autre côté de l'exposition, il y a une autre vitrine qui elle aussi a un objet à l'intérieur. Un bâton avec deux fleurs blanches suspendues aux extrémités. Les fleurs sont attachées par des boules dorées. 
 
-![Le derrière de l'oeuvre en question d'un point de vue rapprocher]()
-*Le derrière de l'ouevre "ENTRE MAINTENANT ET L'INFINI" d'un point de vue rapprocher, photo prise par Noah-Charles Yoou*
+![Le derrière de l'oeuvre en question d'un point de vue rapprocher](media/vue_ensemble_derriere_rapprocher.jpg)
+*Le derrière de l'ouevre "ENTRE MAINTENANT ET L'INFINI" d'un point de vue rapproché, photo prise par Noah-Charles Yoou*
 
 ---
 ## Type d'installation
 ### interactive
 ![Oeuvre en question d'un point de vue rapprocher](media/vue_ensemble_devant_rapprocher.jpg)
-*L'ouevre "ENTRE MAINTENANT ET L'INFINI" d'un point de vue rapprocher, photo prise par Noah-Charles Yoou*
+*L'ouevre "ENTRE MAINTENANT ET L'INFINI" d'un point de vue rapproché, photo prise par Noah-Charles Yoou*
 
 ---
 ## mise en l'espace
-![image dessiné du croquis]()
-*image dessiné du croquis, photo prise par Noah-Charles Yoou*
+![image dessiné du croquis](media/vue%20_d'ensemble_croquis.jpg)
+*image dessinée du croquis, photo prise par Noah-Charles Yoou*
 
 ---
 ## Composante et technique 
@@ -66,10 +66,10 @@ L'oeuvre consite d'un cylindre oval avec un contour extérieur bleu et plusieur 
 - lumière néon
 - support de la structure
 - mascotte 
-- batton avec fleur
+- bâton avec fleur
 ---
 ![Le derrière de l'oeuvre en question](media/vue_ensemble_derriere.jpg)
-*Le derriere de l'ouevre "ENTRE MAINTENANT ET L'INFINI" d'un point de vue rapprocher, photo prise par Noah-Charles Yoou*
+*Le derrière de l'ouevre "ENTRE MAINTENANT ET L'INFINI" d'un point de vue rapproché, photo prise par Noah-Charles Yoou*
 
 ---
 ![Oeuvre en question de coté](media/vue_ensemble_cote.jpg)
@@ -89,14 +89,14 @@ L'oeuvre consite d'un cylindre oval avec un contour extérieur bleu et plusieur 
 
 ---
 ## Expérience vécu
-J'ai trouver l'expérience plutot bien. La mise en scène de l'oeuvre était bien pour se que c'etait. Il n'avait pas trop de monde , donc c'était facile de ser pormener et observer l'oeuvre et l'apprécié sans etre deranger. J'était inqiet de ne pas réussir a trouver l'exposition mais c'etait le contraire. Le cartel était informatif.
+J'ai trouvé l'expérience plutôt bien. La mise en scène de l'oeuvre était bien pour ce que c'était. Il n'y avait pas trop de monde, donc c'était facile de se promener et observer l'oeuvre et l'apprécier sans être dérangé. J'étais inquiet de ne pas réussir à trouver l'exposition mais c'était le contraire. Le cartel était informatif.
 
 ---
 ## Ce qui m'a plus
-J'ai bien aimer les couleurs et l'aethétiques de l'art. Les élélments a l'intérieur desa vitrines me rappelait vivement un circle. Les couleur utilisés (bleu/orange) fesait un très beau contraste et te gardait plutot capitvé par l'oeuvre. J'ai aussi bien aimé la rondeur et les différente couche de orange du cylindre oval. il était plaiseant a regarder. 
+JJ'ai bien aimé les couleurs et l'esthétique de l'art. Les éléments à l'intérieur des vitrines me rappelaient vivement un cercle. Les couleurs utilisées (bleu/orange) faisaient un très beau contraste et te gardaient plutôt captivé par l'oeuvre. J'ai aussi bien aimé la rondeur et les différentes couches d'orange du cylindre ovale. Il était plaisant à regarder.
 
 ---
 ## Ce que je ferais différement
-Si j'avais a faire les choses différement jessayerais de rendre l'ouvre soit plus intéractif ou plus artistique pour mieux captiver l'attention des vistuers. L'oeuvre est tres belle a regarder ,mais une fois aque tu as fait le tour elkle devient plutot plate. Je pense quelle pourrait bénéfisier de plus d'interactivité, par exemple de avoir les néon qui change de couleur, les élément qui sont dérriere la vitrine qui bouge ou meme de simplement ajouter des speaker pour rajouter une petite ambimace sans trop pertuber. Sinon si l'oeuvre avait a etre plus artisque, cela aurait bien d'avoir plus d'élément qui cause une réflection plus pousser. Après m'avoir renseigner sur le site web, je n'ai pas senti/compris la vision que l'artiste a essayer de nous partager. Je la trouvais simploe et je pense qu'elle aurait etre plus déveloper.
+Si j'avais à faire les choses différemment j'essayerais de rendre l'oeuvre soit plus interactive ou plus artistique pour mieux captiver l'attention des visiteurs. L'oeuvre est très belle à regarder, mais une fois que tu as fait le tour elle devient plutôt plate. Je pense qu'elle pourrait bénéficier de plus d'interactivité, par exemple d'avoir les néons qui changent de couleur, les éléments qui sont derrière la vitrine qui bougent ou même simplement ajouter des speakers pour rajouter une petite ambiance sans trop perturber. Sinon si l'oeuvre avait à être plus artistique, cela aurait été bien d'avoir plus d'éléments qui causent une réflexion plus poussée. Après m'être renseigné sur le site web, je n'ai pas senti/compris la vision que l'artiste a essayé de nous partager. Je la trouvais simple et je pense qu'elle aurait pu être plus développée.
 
 
