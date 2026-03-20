@@ -10,7 +10,7 @@ Ahmed Kaissoumi, Radhouane Kordan, Justin Montpetit, Thearylou Lach, Jad Saloumi
 ### Schéma de l'installation prévue
 !()[schéma de mise en espace (plantation ou implantation)]
 *(télécharger le dessin à partir de la documentation GitHub de l'équipe, et indiquer la source dans la légende et le nom du fichier)
-### Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)
+### Ce que vous ressentez en expérimentant cet installation, avec justification (avant/après l'expérimentation)
 
 ---
 
@@ -24,7 +24,7 @@ Yannick Chamberland, Benjamin Ferland, Walid Cheour
 ### Schéma de l'installation prévue
 !()[schéma de mise en espace (plantation ou implantation)]
 *(télécharger le dessin à partir de la documentation GitHub de l'équipe, et indiquer la source dans la légende et le nom du fichier)
-### Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)
+### Ce que vous ressentez en expérimentant cet installation, avec justification (avant/après l'expérimentation)
 
 ---
 
@@ -38,7 +38,7 @@ Edelwyn Ledru, Félix Lavoie, Jade Hébert, Manel Yaya, Patricia Nassif
 ### Schéma de l'installation prévue
 !()[schéma de mise en espace (plantation ou implantation)]
 *(télécharger le dessin à partir de la documentation GitHub de l'équipe, et indiquer la source dans la légende et le nom du fichier)
-### Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)
+### Ce que vous ressentez en expérimentant cet installation, avec justification (avant/après l'expérimentation)
 
 ---
 ## Océan rouge
@@ -51,7 +51,7 @@ Amira Tounekti, Kristy Moussally
 ### Schéma de l'installation prévue
 !()[schéma de mise en espace (plantation ou implantation)]
 *(télécharger le dessin à partir de la documentation GitHub de l'équipe, et indiquer la source dans la légende et le nom du fichier)
-### Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)
+### Ce que vous ressentez en expérimentant cet installation, avec justification (avant/après l'expérimentation)
 
 ---
 
@@ -65,13 +65,15 @@ Alexandre Gendron, Mikael Arseneau, Mattieu Willet, Matis Ghariani, Rafael Angon
 ### Schéma de l'installation prévue
 !()[schéma de mise en espace (plantation ou implantation)]
 *(télécharger le dessin à partir de la documentation GitHub de l'équipe, et indiquer la source dans la légende et le nom du fichier)
-### Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)
+### Ce que vous ressentez en expérimentant cet installation, avec justification (avant/après l'expérimentation)
 
 ---
 
 
 ## Trois cour du programme qui vous semblent incontournables pour avoir les compétences pour créer ce genre de projet
-## -Web
+## -Web:
+Selon moi, le cour de web me semble incontournable, car tout les projets necéssitent un site web pour pouvoir présenter leur projet. Sans les connaissanse du cour il quasiment impossible de créer son site.
+De plus, je pense que le cour de web est un bon début pour apprendre a coder. Ceci est une grande nécesséité pour ce projet une majorité de ceci consite a programmer.
 ## -Modelisation 3D
 ## -Programmation interactive
 ## Nommer et décrire une technique ou une composante technologique qui est utilisée dans l'un des projets et que vous ne connaissiez pas.
