@@ -6,7 +6,7 @@
 
 ---
 ## Lieu de mise d'exposition 
-__
+Grand studio du cégep Montmorency
 
 ---
 ![noah devant le cartel]()
