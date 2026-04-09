@@ -12,7 +12,13 @@ Ahmed Kaissoumi, Radhouane Kordan, Justin Montpetit, Thearylou Lach, Jad Saloumi
 *(télécharger le dessin à partir de la documentation GitHub de l'équipe, et indiquer la source dans la légende et le nom du fichier)
 ### Ce que vous ressentez en expérimentant cet installation, avec justification (avant/après l'expérimentation)
 #### Avant:
+J'ai beaucoup aimer la premiere version de se projet. J'aimais beaucoup le concept. C'est quelque chose que je n'avais jamais vus et que je trouvais très originale.
+Cepenadnt je l'ai trouver un peut dure a comprendre. Ca a prit plusieurs essaie et l'aide de plusieur amis avant de bien comprendre quoi faire exactement. Meme si le jeu etait 
+amusant le but n'etait pas claire. Les controles et la globalité du concept etait tres amusant par contre
 #### Après:
+Il a eu une très belle amélikoration dans le projet. L'objectif était plus claire et les instructions sur quest se que chaque bouttons fait etait plus claire. Des instructions/"warning" on aussi été rajouter pour 
+meiux expliquer au joueur quel sont les taches a accomplir. Super belle additions cela a vraiment rendu le jeux plus facile a maitriser des que tu commences a jouer. Un changement qui a significtivement ameliorer le jeux
+
 ---
 
 ## Symbiose
@@ -26,8 +32,13 @@ Yannick Chamberland, Benjamin Ferland, Walid Cheour
 !()[schéma de mise en espace (plantation ou implantation)]
 *(télécharger le dessin à partir de la documentation GitHub de l'équipe, et indiquer la source dans la légende et le nom du fichier)
 ### Ce que vous ressentez en expérimentant cet installation, avec justification (avant/après l'expérimentation)
-#### Avant:
+#### Avant: 
+Le jeux était vraiment plaisent a jouer des le debut. C'etait un de mes préféré. Si je me trompe pas il n'avait pas d'objectif fixe au début.
+Cela rendait le jeux amusant mais au bout d'un moment un peu annuyant si tu continue a reussir les objectif sans perde. EN globale j'ai bien aimer
 #### Après:
+Ils ont améliorer la qualité des instrument que tu utilises pour qui te lache pas et se "brise" durant que tu joue. Un but aussi a été rajouter. 
+J'ai bien aimés ses additoins car cela a rendu le jeux plus concret. Tu avais vraiment des taches a respecter et a faire en équipe pour réussir.
+
 ---
 
 ## Quand les yeux se croisent
@@ -42,7 +53,15 @@ Edelwyn Ledru, Félix Lavoie, Jade Hébert, Manel Yaya, Patricia Nassif
 *(télécharger le dessin à partir de la documentation GitHub de l'équipe, et indiquer la source dans la légende et le nom du fichier)
 ### Ce que vous ressentez en expérimentant cet installation, avec justification (avant/après l'expérimentation)
 #### Avant:
+Durant la premiere visite les photo montrée etait un inconsistente. Il avait aussi plusieurs fils qui dépassait et qui était exposer. Cependant la direction 
+artistique était super bien réussi. L'aesthétic globale du projet était vraiment bien exécuter. Tu savais exactement ce que l'équipe on essayer de partager. 
+En plus d'etre plutot bien assembler la technologie impréssionnnate des télévision rétro qui projet tes yeux grace au camera ainsi que la présentation artisque des 
+autre élémemnt rendait le projet encore meilleur.
+
 #### Après:
+Tout les petites imperfections ont été régler. Les fils ne depaissaient plus, toute etait mieux organiser. Les images qui était projetter apres avoir été prit en video par la caméra etaient aussi mieux. Mieux cadrer, mieux choisi  et un 
+meilleur durée. Pour rajouter la cerise sur le gateau la direction artistique est resté super consitente et belle. J'ai beaucoup aimer la créativité de se projet.
+
 ---
 ## Océan rouge
 ### noms des créateurs et créatrices:
@@ -56,6 +75,7 @@ Amira Tounekti, Kristy Moussally
 *(télécharger le dessin à partir de la documentation GitHub de l'équipe, et indiquer la source dans la légende et le nom du fichier)
 ### Ce que vous ressentez en expérimentant cet installation, avec justification (avant/après l'expérimentation)
 #### Avant:
+J'ai bien aimer la premère version de se projet. C'etait un simulateur relaxent et plutot apaisant a jouer. Les modeles 3D etait bien et le arts styles était beau.
 #### Après:
 ---
 
