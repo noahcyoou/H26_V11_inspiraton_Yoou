@@ -6,9 +6,9 @@ Ahmed Kaissoumi, Radhouane Kordan, Justin Montpetit, Thearylou Lach, Jad Saloumi
 
 ---
 ### Installation en cours (ou finale)
-!()[photo de l'ensemble de l'installation dans le studio]
+![photo de l'ensemble de l'installation dans le studio](media/OIGNON/vue_ensemble_OIGNON.jpg)
 ### Schéma de l'installation prévue
-!()[schéma de mise en espace (plantation ou implantation)]
+![schéma de mise en espace (plantation ou implantation)](media/OIGNON/ensemble_installation_OIGNON.png)
 > source des deux images --> *https://o-i-g-n-o-n.github.io/Mission-decollage/#/technique/*
 ### Ce que j'ai ressenti en expérimentant cet installation, avec justification (avant/après l'expérimentation)
 #### Avant:
@@ -27,9 +27,9 @@ Yannick Chamberland, Benjamin Ferland, Walid Cheour
 
 ---
 ### Installation en cours (ou finale)
-!()[photo de l'ensemble de l'installation dans le studio]
+![photo de l'ensemble de l'installation dans le studio](https://github.com/noahcyoou/H26_V11_inspiraton_Yoou/blob/main/TIM_STUDIO/media/Symbiose/ensemble_installation_symbiose.webp?raw=true)
 ### Schéma de l'installation prévue
-!()[schéma de mise en espace (plantation ou implantation)]
+![schéma de mise en espace (plantation ou implantation)](https://github.com/noahcyoou/H26_V11_inspiraton_Yoou/blob/main/TIM_STUDIO/media/Symbiose/vue_ensemble_symbiose.jpg?raw=true)
 > source des deux images --> *https://les-chimistes.github.io/symbiose/#/technique/*
 ### Ce que j'ai ressenti en expérimentant cet installation, avec justification
 #### Avant: 
@@ -47,9 +47,9 @@ Edelwyn Ledru, Félix Lavoie, Jade Hébert, Manel Yaya, Patricia Nassif
 
 ---
 ### Installation en cours (ou finale)
-!()[photo de l'ensemble de l'installation dans le studio]
+![photo de l'ensemble de l'installation dans le studio](https://github.com/noahcyoou/H26_V11_inspiraton_Yoou/blob/main/TIM_STUDIO/media/quand%20les%20yeux%20se%20croisent/vue_ensemble_quand_les_se_croisent.jpg?raw=true)
 ### Schéma de l'installation prévue
-!()[schéma de mise en espace (plantation ou implantation)]
+![schéma de mise en espace (plantation ou implantation)](https://github.com/noahcyoou/H26_V11_inspiraton_Yoou/blob/main/TIM_STUDIO/media/quand%20les%20yeux%20se%20croisent/ensemble_installation_quand_les_yeux_se_croisent.jpeg?raw=true)
 > source des deux images --> *https://emersiaa.github.io/Quand-les-yeux-se-croisent/#/technique/*
 ### Ce que j'ai ressenti en expérimentant cet installation, avec justification
 #### Avant:
@@ -69,9 +69,9 @@ Amira Tounekti, Kristy Moussally
 
 ---
 ### Installation en cours (ou finale)
-!()[photo de l'ensemble de l'installation dans le studio]
+![photo de l'ensemble de l'installation dans le studio](https://github.com/noahcyoou/H26_V11_inspiraton_Yoou/blob/main/TIM_STUDIO/media/Ocean%20rouge/vue_ensemble_ocean_rouge.jpg?raw=true)
 ### Schéma de l'installation prévue
-!()[schéma de mise en espace (plantation ou implantation)]
+![schéma de mise en espace (plantation ou implantation)](https://github.com/noahcyoou/H26_V11_inspiraton_Yoou/blob/main/TIM_STUDIO/media/Ocean%20rouge/ensemble_installation_emplacement_ocean_rouge_.png?raw=true)
 > source des deux images --> *https://deux-intelligence.github.io/deux-neurones/#/technique/*
 ### Ce que j'ai ressenti en expérimentant cet installation, avec justification
 #### Avant:
@@ -90,9 +90,9 @@ Alexandre Gendron, Mikael Arseneau, Mattieu Willet, Matis Ghariani, Rafael Angon
 
 ---
 ### Installation en cours (ou finale)
-!()[photo de l'ensemble de l'installation dans le studio]
+![photo de l'ensemble de l'installation dans le studio](media/Arbre%20en%20Face/vue_ensemble_arbre_en_face.jpg)
 ### Schéma de l'installation prévue
-!(media/Arbre%20en%20Face/ensemble_installation_arbre_en_face.jpg)[schéma de mise en espace (plantation ou implantation)]
+![schéma de mise en espace (plantation ou implantation)](media/Arbre%20en%20Face/ensemble_installation_arbre_en_face.jpg)
 > source des deux images --> *https://mammouths.github.io/projet/#/technique/*
 ### Ce que j'ai ressenti en expérimentant cet installation, avec justification
 #### Avant: 
