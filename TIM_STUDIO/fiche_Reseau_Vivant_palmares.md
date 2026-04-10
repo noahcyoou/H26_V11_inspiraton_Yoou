@@ -92,7 +92,7 @@ Alexandre Gendron, Mikael Arseneau, Mattieu Willet, Matis Ghariani, Rafael Angon
 ### Installation en cours (ou finale)
 !()[photo de l'ensemble de l'installation dans le studio]
 ### Schéma de l'installation prévue
-!()[schéma de mise en espace (plantation ou implantation)]
+!(media/Arbre%20en%20Face/ensemble_installation_arbre_en_face.jpg)[schéma de mise en espace (plantation ou implantation)]
 > source des deux images --> *https://mammouths.github.io/projet/#/technique/*
 ### Ce que j'ai ressenti en expérimentant cet installation, avec justification
 #### Avant: 
