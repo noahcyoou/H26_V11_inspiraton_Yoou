@@ -9,8 +9,8 @@ Ahmed Kaissoumi, Radhouane Kordan, Justin Montpetit, Thearylou Lach, Jad Saloumi
 !()[photo de l'ensemble de l'installation dans le studio]
 ### Schéma de l'installation prévue
 !()[schéma de mise en espace (plantation ou implantation)]
-*(télécharger le dessin à partir de la documentation GitHub de l'équipe, et indiquer la source dans la légende et le nom du fichier)
-### Ce que vous ressentez en expérimentant cet installation, avec justification (avant/après l'expérimentation)
+> source des deux images --> *https://o-i-g-n-o-n.github.io/Mission-decollage/#/technique/*
+### Ce que j'ai ressenti en expérimentant cet installation, avec justification (avant/après l'expérimentation)
 #### Avant:
 J'ai beaucoup aimer la premiere version de se projet. J'aimais beaucoup le concept. C'est quelque chose que je n'avais jamais vus et que je trouvais très originale.
 Cepenadnt je l'ai trouver un peut dure a comprendre. Ca a prit plusieurs essaie et l'aide de plusieur amis avant de bien comprendre quoi faire exactement. Meme si le jeu etait 
@@ -30,8 +30,8 @@ Yannick Chamberland, Benjamin Ferland, Walid Cheour
 !()[photo de l'ensemble de l'installation dans le studio]
 ### Schéma de l'installation prévue
 !()[schéma de mise en espace (plantation ou implantation)]
-*(télécharger le dessin à partir de la documentation GitHub de l'équipe, et indiquer la source dans la légende et le nom du fichier)
-### Ce que vous ressentez en expérimentant cet installation, avec justification (avant/après l'expérimentation)
+> source des deux images --> *https://les-chimistes.github.io/symbiose/#/technique/*
+### Ce que j'ai ressenti en expérimentant cet installation, avec justification
 #### Avant: 
 Le jeux était vraiment plaisent a jouer des le debut. C'etait un de mes préféré. Si je me trompe pas il n'avait pas d'objectif fixe au début.
 Cela rendait le jeux amusant mais au bout d'un moment un peu annuyant si tu continue a reussir les objectif sans perde. EN globale j'ai bien aimer
@@ -50,8 +50,8 @@ Edelwyn Ledru, Félix Lavoie, Jade Hébert, Manel Yaya, Patricia Nassif
 !()[photo de l'ensemble de l'installation dans le studio]
 ### Schéma de l'installation prévue
 !()[schéma de mise en espace (plantation ou implantation)]
-*(télécharger le dessin à partir de la documentation GitHub de l'équipe, et indiquer la source dans la légende et le nom du fichier)
-### Ce que vous ressentez en expérimentant cet installation, avec justification (avant/après l'expérimentation)
+> source des deux images --> *https://emersiaa.github.io/Quand-les-yeux-se-croisent/#/technique/*
+### Ce que j'ai ressenti en expérimentant cet installation, avec justification
 #### Avant:
 Durant la premiere visite les photo montrée etait un inconsistente. Il avait aussi plusieurs fils qui dépassait et qui était exposer. Cependant la direction 
 artistique était super bien réussi. L'aesthétic globale du projet était vraiment bien exécuter. Tu savais exactement ce que l'équipe on essayer de partager. 
@@ -72,11 +72,16 @@ Amira Tounekti, Kristy Moussally
 !()[photo de l'ensemble de l'installation dans le studio]
 ### Schéma de l'installation prévue
 !()[schéma de mise en espace (plantation ou implantation)]
-*(télécharger le dessin à partir de la documentation GitHub de l'équipe, et indiquer la source dans la légende et le nom du fichier)
-### Ce que vous ressentez en expérimentant cet installation, avec justification (avant/après l'expérimentation)
+> source des deux images --> *https://deux-intelligence.github.io/deux-neurones/#/technique/*
+### Ce que j'ai ressenti en expérimentant cet installation, avec justification
 #### Avant:
-J'ai bien aimer la premère version de se projet. C'etait un simulateur relaxent et plutot apaisant a jouer. Les modeles 3D etait bien et le arts styles était beau.
+J'ai bien aimer la premère version de se projet. C'etait un simulateur relaxent et plutot apaisant a jouer. Les modeles 3D etait bien et le arts styles était beau. Le jeu était simple a comprendre et 
+un jeu relativemaent intuitive. Sa simplicité était son point fort.
 #### Après:
+Personllement je pense que je préférais plus la premiere version du projet. Jai trouver que laddition du cercle noir qui cache une partie de l'écran était unitile et que le projet était beaucoups mieux sans
+. En plus du cercle noir ajouter la mechanique de jeu avec la saleté a été ajouter. En précipe c'est bien mais elle aurait pus etre mieux exécuter. On dirait que tout les nouveaux élément fait pour ajouter une handicape visuel 
+on fait que le jeux a perdu un peu se qui le rendait bien de base. Sinon en globale il est bien mais je prefere definitivement l'ancienne version.
+
 ---
 
 ## Arbre-en-face
@@ -88,10 +93,17 @@ Alexandre Gendron, Mikael Arseneau, Mattieu Willet, Matis Ghariani, Rafael Angon
 !()[photo de l'ensemble de l'installation dans le studio]
 ### Schéma de l'installation prévue
 !()[schéma de mise en espace (plantation ou implantation)]
-*(télécharger le dessin à partir de la documentation GitHub de l'équipe, et indiquer la source dans la légende et le nom du fichier)
-### Ce que vous ressentez en expérimentant cet installation, avec justification (avant/après l'expérimentation)
-#### Avant:
+> source des deux images --> *https://mammouths.github.io/projet/#/technique/*
+### Ce que j'ai ressenti en expérimentant cet installation, avec justification
+#### Avant: 
+J'ai bien aimer se projet. A premiere vue il semble simple et pas compliquer mais il a réussi a me suprendre. Après avoir parler au créateur du projet j'ai compris que la technologie de recongnition facicale qui enregistre les visage et qui les sauvegarde 
+dans une base de donner pour ensuite les faire appparraitre lorsquon intéragit avec les différentes fleurs, était beaucoup plus pousser et developper qu'elle la l'air. Cela ma vraiment impréssionner. C'est peut etre pas le projet le plus "flashy" a premiere vue mais quand 
+tu commence a vraimenet t'y intéresser il réussi a te surprendre.
 #### Après:
+Pour être honnete je n'ai pas fait grande attention a se projet lors de ma deuxième visite. Si je ne me trompe pas la recognistion était meilleur et plus clair mais sinon je ne me souviens pas davoir vus quelque chose qui ma vraiment marque.
+Je trouve que après la premiere visite j'avais tout vus. Encore une fois le porjet est bien mais se qui le rend vraiment intéressant est la technologie derrière.
+
+
 ---
 
 
