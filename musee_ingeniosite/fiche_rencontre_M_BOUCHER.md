@@ -9,5 +9,5 @@ Pour conclure, j'ai vraiment apprécié cette présentation. De voir un professi
 
 ***
 
-![dispositif métro de montréal]()
-> Un aperçu du dispotif sur le métro de montréal. Source de l'image : Site web du Musée de l'ingéniosité (museebombardier.com).*
+![dispositif métro de montréal](apercu_dispositif_metro_mtl.jpeg)
+> Un aperçu du dispotif sur le métro de montréal. Source de l'image : Site web du Musée de l'ingéniosité (museebombardier.com)
