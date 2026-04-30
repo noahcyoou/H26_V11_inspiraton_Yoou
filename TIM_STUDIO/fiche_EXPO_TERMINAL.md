@@ -1,12 +1,13 @@
 # Réseau Vivant: TERMINAL
 ---
-­![photo cartel exposition)
-
-> photo cartel exposition, photo prise par Noah-Charles Yoou
+­![photo projection cartel exposition](https://github.com/noahcyoou/H26_V11_inspiraton_Yoou/blob/main/TIM_STUDIO/media/Terminal/cartel_exposition_projection.jpg?raw=true)
+> photo projection cartel exposition , photo prise par Noah-Charles Yoou
 
 ---
 ## Lieu de mise d'exposition 
 Grand studio du cégep Montmorency
+![photo cartel exposition](https://github.com/noahcyoou/H26_V11_inspiraton_Yoou/blob/main/TIM_STUDIO/media/Terminal/cartel_exposition_physique.jpg?raw=true)
+> photo cartel exposition , photo prise par Noah-Charles Yoou
 
 ---
 ![noah devant le cartel]()
@@ -14,14 +15,14 @@ Grand studio du cégep Montmorency
 
 ---
 
-![noah devant le cartel](media/photo_devant_edifice.jpg)
+![noah devant le cartel]()
 > Moi (Noah-Charles Yoou) devant l'édifice , photo prise par étudiant de TIM Montmorency
 
 ---
-## Type d'exposition
+## Type de dispotif
 Temporaire (intérieur)
-![Oeuvre en question]()
-> L'exposition "TERMINAL", photo prise par Noah-Charles Yoou
+![dispositif en question]()
+> Le dispotif "TERMINAL", photo prise par Noah-Charles Yoou
 
 ---
 ## Date de visite
@@ -30,7 +31,7 @@ mardi 24 février 2026 et mardi 17 mars 2026
 ---
 ## Titre de L'oeuvre choisi
 ### TERMINAL
-![Totalité du cartel]()
+![Totalité du cartel](media/Terminal/cartel.jpg)
 > Totalité du cartel, photo prise par Noah-Charles Yoou
 
 ---
@@ -49,19 +50,20 @@ TERMINAL est un jeu collaboratif pouvant accueillir jusqu’à 6 joueurs. Chaque
 
 > Description selon le site : [Reférence du site: TERMINAL | Réseau Vivant](https://pythons-5.github.io/Terminal/#/)
 
-![Le derrière de l'oeuvre en question d'un point de vue rapprocher]()
-> Le derrière de l'exposition "TERMINAL" d'un point de vue rapproché, photo prise par Noah-Charles Yoou
+![plusieurs étudiants qui intéragissent avec le dispositif](https://github.com/noahcyoou/H26_V11_inspiraton_Yoou/blob/main/TIM_STUDIO/media/Terminal/interactions_participants.jpg?raw=true)
+> étudiant qui intéragit avec le dispositif "TERMINAL" d'un point de vue rapproché, photo prise par Noah-Charles Yoou
 
 ---
 ## Type d'installation
 ### interactive
 
-![Oeuvre en question d'un point de vue rapprocher]()
+![étudiant qui intéragit avec le dispositif à travers son téléphone](https://github.com/noahcyoou/H26_V11_inspiraton_Yoou/blob/main/TIM_STUDIO/media/Terminal/interaction_participant_seule.jpg?raw=true)
 > l'exposition "TERMINAL" d'un point de vue rapproché, photo prise par Noah-Charles Yoou 
 
 ---
 ## mise en l'espace
-![image dessiné du croquis]()
+![image du croquis](https://github.com/noahcyoou/H26_V11_inspiraton_Yoou/blob/main/TIM_STUDIO/media/Terminal/ensemble_installation_terminal.png?raw=true)
+![image du croquis](https://github.com/noahcyoou/H26_V11_inspiraton_Yoou/blob/main/TIM_STUDIO/media/Terminal/plan_2d_1.png?raw=true)
 > image du croquis, créer par l'équipe TERMINAL
 
 ---
@@ -87,12 +89,9 @@ TERMINAL est un jeu collaboratif pouvant accueillir jusqu’à 6 joueurs. Chaque
 - Carte graphique extérieur (1): Pour projeter les données vers les couleurs de lumières
 
 ---
-![Le derrière de l'oeuvre en question](media/vue_ensemble_derriere.jpg)
-> Le derrière de l'ouevre "ENTRE MAINTENANT ET L'INFINI" d'un point de vue rapproché, photo prise par Noah-Charles Yoou
 
----
-![Oeuvre en question de coté](media/vue_ensemble_cote.jpg)
-> L'ouevre "ENTRE MAINTENANT ET L'INFINI" de coté, photo prise par Noah-Charles Yoou
+![dispositif en question](https://github.com/noahcyoou/H26_V11_inspiraton_Yoou/blob/main/TIM_STUDIO/media/Terminal/vue_ensemble_devant.jpg?raw=true)
+> Le dispositif "ENTRE MAINTENANT ET L'INFINI" de coté, photo prise par Noah-Charles Yoou
 
 ---
 ## Élément nécessaire à la mise d'exposition
@@ -105,11 +104,11 @@ TERMINAL est un jeu collaboratif pouvant accueillir jusqu’à 6 joueurs. Chaque
 - Podium code Qr
 
 ---
-![L'ensemble de l'oeuvre]()
-> L'ensemble de l'oeuvre, photo prise par Noah-Charles Yoou
+![code QR pour débuté expérience](https://github.com/noahcyoou/H26_V11_inspiraton_Yoou/blob/main/TIM_STUDIO/media/Terminal/code_qr_acces_oeuvre.jpg?raw=true)
+> code QR pour débuté expérience, photo prise par Noah-Charles Yoou
 
 ---
-![L'éclairage au plafonds](media/vue_ensemble_eclairage.jpg)
+![L'éclairage au plafonds](https://github.com/noahcyoou/H26_V11_inspiraton_Yoou/blob/main/TIM_STUDIO/media/Terminal/eclairage.jpg?raw=true)
 > L'éclairage au plafonds, photo prise par Noah-Charles Yoou
 
 ---
