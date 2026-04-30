@@ -68,25 +68,14 @@ ou est attquer par un ours tu utilises une de tes vies pôur recommencer. QUand 
 
 ---
 ## Composante et technique 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-
----
-
-- 
-- 
-- 
-- 
-- 
+- faux harpon
+- capteur de badge
+- podium
+- écran
+- boutton sur harpon
+- soutien à harpon
+- système élécetronique
+- speaker
 
 ---
 
@@ -96,12 +85,10 @@ ou est attquer par un ours tu utilises une de tes vies pôur recommencer. QUand 
 ---
 ## Élément nécessaire à la mise d'exposition
 
-- 
-- 
-- 
-- 
-- 
-- 
+- espace intérieur
+- mure
+- lumière au plafonds
+- mur séparateur 
 
 ---
 ![L'ensemble de l'oeuvre]()
