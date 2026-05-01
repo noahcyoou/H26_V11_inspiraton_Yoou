@@ -10,19 +10,17 @@ Grand studio du cégep Montmorency
 > photo cartel exposition , photo prise par Noah-Charles Yoou
 
 ---
-![noah devant le cartel]()
-> Moi (Noah-Charles Yoou) devant le carte, photo prise par étudiant de TIM Montmorency
+![noah devant le cartel](https://github.com/noahcyoou/H26_V11_inspiraton_Yoou/blob/main/TIM_STUDIO/media/noah_projection_cartel_exposition.jpg?raw=true)
+> Moi (Noah-Charles Yoou) devant la projection du cartel , photo prise par étudiant de TIM Montmorency
 
 ---
 
-![noah devant le cartel]()
-> Moi (Noah-Charles Yoou) devant l'édifice , photo prise par étudiant de TIM Montmorency
+![noah devant le cartel](https://github.com/noahcyoou/H26_V11_inspiraton_Yoou/blob/main/TIM_STUDIO/media/noah_physique_cartel_exposition.jpg?raw=true)
+> Moi (Noah-Charles Yoou) devant le cartel physique , photo prise par étudiant de TIM Montmorency
 
 ---
 ## Type de dispotif
 Temporaire (intérieur)
-![dispositif en question]()
-> Le dispotif "TERMINAL", photo prise par Noah-Charles Yoou
 
 ---
 ## Date de visite
@@ -91,7 +89,7 @@ TERMINAL est un jeu collaboratif pouvant accueillir jusqu’à 6 joueurs. Chaque
 ---
 
 ![dispositif en question](https://github.com/noahcyoou/H26_V11_inspiraton_Yoou/blob/main/TIM_STUDIO/media/Terminal/vue_ensemble_devant.jpg?raw=true)
-> Le dispositif "ENTRE MAINTENANT ET L'INFINI" de coté, photo prise par Noah-Charles Yoou
+> Le dispositif "TERMINAL", photo prise par Noah-Charles Yoou
 
 ---
 ## Élément nécessaire à la mise d'exposition
