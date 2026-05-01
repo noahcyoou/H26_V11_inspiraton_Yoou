@@ -1,8 +1,7 @@
 # Nanualuk - Expédition Nordique
----
-­![photo cartel exposition]()
+­![photo cartel exposition](https://github.com/noahcyoou/H26_V11_inspiraton_Yoou/blob/main/CENTRE%20_SCIENCE_MTL/media/nom_exposition.jpg?raw=true)
 
-> photo cartel exposition, photo prise par ma maman
+> photo cartel exposition, photo prise par Noah-Charles Yoou
 ---
 ## Lieu de mise d'exposition 
 Centre des sciences,
@@ -11,33 +10,37 @@ Montréal, QC H2Y 4B2
 Canada
 
 ---
-![noah devant le cartel]()
-> Moi (Noah-Charles Yoou) devant le carte, photo prise par ma maman
+![noah devant le édifice](https://github.com/noahcyoou/H26_V11_inspiraton_Yoou/blob/main/CENTRE%20_SCIENCE_MTL/media/noah_devant_edifice.jpg?raw=true)
+> Moi (Noah-Charles Yoou) devant l'édifice , photo prise par ma maman
 
 ---
 
-![noah devant le cartel]()
-> Moi (Noah-Charles Yoou) devant l'édifice , photo prise par ma maman
+![noah devant le cartel](https://github.com/noahcyoou/H26_V11_inspiraton_Yoou/blob/main/CENTRE%20_SCIENCE_MTL/media/noah_devant_cartel_exposition.jpg?raw=true)
+> Moi (Noah-Charles Yoou) devant le cartel d'exposition, photo prise par ma maman
 
 ---
 ## Type d'exposition
 Permanente (intérieur)
-![Oeuvre en question]()
-> Le dispotif traverse glace, photo prise par Noah-Charles Yoou
 
+![L'ensemble ddispositif](https://github.com/noahcyoou/H26_V11_inspiraton_Yoou/blob/main/CENTRE%20_SCIENCE_MTL/media/vue_ensemble.jpg?raw=true)
+> L'ensemble du dispositif, photo prise par Noah-Charles Yoou
 ---
 ## Date de visite
 Dimanche 29 mars 2026
 
 ---
 ## Titre du dispositif choisi
-### 
-![Totalité du cartel]()
-> Totalité du cartel, photo prise par Noah-Charles Yoou
+### le dispositif d'harpon sur glace
+
+![L'ensemble du dispositif de d'une vue rapprocher](https://github.com/noahcyoou/H26_V11_inspiraton_Yoou/blob/main/CENTRE%20_SCIENCE_MTL/media/vue_rapprocher_harpon.jpg?raw=true)
+> vue rapprocher de l'ensemble du dispositif, photo prise par Noah-Charles Yoou
 
 ---
 ## Noms des créateurs et créatrices
 ### Centre des sciences de montreal et la communautée inuite
+
+![Collaborateur de l'exposition](https://github.com/noahcyoou/H26_V11_inspiraton_Yoou/blob/main/CENTRE%20_SCIENCE_MTL/media/collaborateur_et_equipe_projet.jpg?raw=true)
+> Collaborateur et équipe, photo prise par Noah-Charles Yoou
 
 ---
 ## Année de réalisation
@@ -51,19 +54,19 @@ ou est attquer par un ours tu utilises une de tes vies pôur recommencer. QUand 
 
 
 
-![Le derrière de l'oeuvre en question d'un point de vue rapprocher]()
+![Le derrière du dispositif en question d'un point de vue rapprocher](https://github.com/noahcyoou/H26_V11_inspiraton_Yoou/blob/main/CENTRE%20_SCIENCE_MTL/media/derriere_dispositif_harpon.jpg?raw=true)
 > Le derrière du dispotif d'un point de vue rapproché, photo prise par Noah-Charles Yoou
 
 ---
 ## Type d'installation
 ### interactive
 
-![interaction avec l'oeuvre]()
+![interaction avec l'oeuvre](https://github.com/noahcyoou/H26_V11_inspiraton_Yoou/blob/main/CENTRE%20_SCIENCE_MTL/media/noah_interaction_dispositif.jpg?raw=true)
 > intéraction avec l'oeuvre, photo prise par ma maman
 
 ---
 ## mise en l'espace
-![image dessiné du croquis]()
+![image dessiné du croquis](https://github.com/noahcyoou/H26_V11_inspiraton_Yoou/blob/main/CENTRE%20_SCIENCE_MTL/media/vue_ensemblre_croquis.jpg?raw=true)
 > image du croquis, dessinér par Noah-Charles Yoou 
 
 ---
@@ -79,23 +82,15 @@ ou est attquer par un ours tu utilises une de tes vies pôur recommencer. QUand 
 
 ---
 
-![Oeuvre en question de coté](media/vue_ensemble_cote.jpg)
-> L'ouevre "" de coté, photo prise par Noah-Charles Yoou
-
----
 ## Élément nécessaire à la mise d'exposition
 
 - espace intérieur
 - mure
 - lumière au plafonds
-- mur séparateur 
+- mur séparateur
 
 ---
-![L'ensemble de l'oeuvre]()
-> L'ensemble de l'oeuvre, photo prise par Noah-Charles Yoou
-
----
-![L'éclairage au plafonds](media/vue_ensemble_eclairage.jpg)
+![L'éclairage au plafonds](https://github.com/noahcyoou/H26_V11_inspiraton_Yoou/blob/main/CENTRE%20_SCIENCE_MTL/media/eclairage.jpg?raw=true)
 > L'éclairage au plafonds, photo prise par Noah-Charles Yoou
 
 ---
